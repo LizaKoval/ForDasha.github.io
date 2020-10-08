@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(224, 196, 158);
+    margin: 0;
+}
+.left{
+background-color: #ffffff;   
+position: relative;
+width: 50%;
+display: flex;
+}
+
+.img{
+    position: absolute;
+    left: 15%;
+    margin-top: 10%;
+}
+
+.head{
+    padding-left: 45%;
+    position: absolute;
+    font-family: 'Parisienne', cursive;
+    font-size: 40px;
+    font-weight: 400;  
+}
+
+.right{
+    position: absolute;
+    font-family: 'Forum', cursive;
+font-family: 'Old Standard TT', serif;
+    width: 46%;
+    display: flex;
+    top:25%;
+    left: 50%;
+    font-size: 20px;
+}
+.second{
+    position: absolute;
+left: 50%;
+}
+
+.links{
+    position: absolute;
+    left: 68%;
+    top: 88%;
+}
